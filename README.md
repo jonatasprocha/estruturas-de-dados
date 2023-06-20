@@ -1,2 +1,2 @@
 # estruturas-de-dados
-Implementação de estruturas de dados utilizando linguagem C
+Estudos em algoritmos e estruturas de dados.
